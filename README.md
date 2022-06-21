@@ -1,1 +1,1 @@
-# sistema-de-vota-ao-em-python
+# sistema-de-votacao-em-python
